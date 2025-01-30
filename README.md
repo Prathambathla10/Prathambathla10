@@ -4,7 +4,7 @@
 
 
 <h1>✨ Things I work on:</h1>h1
-![Python]([https://logos-download.com/9988-python-logo-download.html](https://logodownload.org/wp-content/uploads/2019/10/python-logo-0.png))
+![Python](https://logodownload.org/wp-content/uploads/2019/10/python-logo-0.png)
 
 <!--
 **Prathambathla10/Prathambathla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
