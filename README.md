@@ -4,11 +4,11 @@
 
 
 <h1>✨ Things I work on:</h1>
-![Python](https://github.com/Prathambathla10/Prathambathla10/blob/7704f003ab2d49fa4c490c2230b32c77274a467e/python-logo-0.png)
+Python, Flask, MySQL
 
 <!--
 **Prathambathla10/Prathambathla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Python](https://github.com/Prathambathla10/Prathambathla10/blob/7704f003ab2d49fa4c490c2230b32c77274a467e/python-logo-0.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
