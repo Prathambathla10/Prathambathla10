@@ -1,4 +1,10 @@
-## Hi there 👋
+##🌱 About Me:
+
+<li>I'm a Pre-final year student, and currently working on mastering python </li>
+<li></li>
+
+##✨ Things I work on:
+![Python](https://logos-download.com/9988-python-logo-download.html)
 
 <!--
 **Prathambathla10/Prathambathla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
