@@ -1,9 +1,9 @@
-##🌱 About Me:
+<h1>🌱 About Me:</h1>
 
 <li>I'm a Pre-final year student, and currently working on mastering python </li>
-<li></li>
 
-##✨ Things I work on:
+
+<h1>✨ Things I work on:</h1>h1
 ![Python](https://logos-download.com/9988-python-logo-download.html)
 
 <!--
