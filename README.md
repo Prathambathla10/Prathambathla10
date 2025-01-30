@@ -3,7 +3,7 @@
 <li>I'm a Pre-final year student, and currently working on mastering python </li>
 
 
-<h1>✨ Things I work on:</h1>h1
+<h1>✨ Things I work on:</h1>
 ![Python](https://logodownload.org/wp-content/uploads/2019/10/python-logo-0.png)
 
 <!--
