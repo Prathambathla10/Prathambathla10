@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on Django<br><!--👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>  -->🌱 I’m intrested in Data science <br>💬 Ask me about python<br>⚡ Fun fact is that I'm doing python since a long time
+🔭 I’m currently working on Django and Flask<br><!--👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>  -->🌱 I’m intrested in Data science <br>💬 Ask me about python<br>⚡ Fun fact is that I'm doing python since a long time
 
 
 ## 🌐 Socials:
