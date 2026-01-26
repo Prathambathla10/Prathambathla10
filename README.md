@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prathambathla10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Prathambathla10&theme=highcontrast&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Prathambathla10&theme=dark&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--![](https://nirzak-streak-stats.vercel.app/?user=prathambathla10&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambathla10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
